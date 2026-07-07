@@ -5,7 +5,7 @@ A collection of dashboards analyzing sales performance, built in Power BI and Ex
 ---
 
 ## E-commerce Sales Analysis (Excel)
-Tracks regional sales trends, top-performing products, and maximum sales and profit by category.
+Tracks regional-wise sales, trends, top-performing products & customers, and maximum sales and profit by category.
 
 ![E-commerce Sales Analysis](ecommerce-screenshot.png)
 
@@ -14,7 +14,7 @@ Tracks regional sales trends, top-performing products, and maximum sales and pro
 ---
 
 ## Mobile Sales Dashboard (Power BI)
-Tracks regional sales trends, top-performing products, and maximum sales and profit by category.
+Tracks sales trends, topmobile models, and monthly sales and profit with customer rating.
 
 ![Mobile Sales Dashboard](sales-dashboard-screenshot.png)
 
